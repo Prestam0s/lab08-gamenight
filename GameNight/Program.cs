@@ -2,9 +2,10 @@
 * Name: Preston Offutt  
 * Course: CSCI 1250, Section 001
 * Assignment: Lab 8, Game Night
-* Date: October 21, 2026
-* Description: A Program that tracks the scores of players over a season. Recording the history of each
-               nights winner and the total points of the players.
+* Date: November 18, 2026
+* Description: Keeps a game night leaderboard in three text files. Shows the
+               season so far, records tonight's points, saves the new totals,
+               and adds tonight's result to a history that grows every week.
 */
 using System.ComponentModel.DataAnnotations;
 using System.Drawing;
